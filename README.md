@@ -1,4 +1,4 @@
-# Animação de arma de fogo 3d com three js 
+# 3d gun animation with three js
 - GLTF three js model import 
 
 
